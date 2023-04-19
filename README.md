@@ -9,3 +9,4 @@ In the project, webpage is intended to allow users to filter for multiple criter
 ## Codes
 [index](https://github.com/MSF2141/UFOs/blob/9a51139f73a71c038897fdcdc6771b984c7e5493/index.html)
 [app](https://github.com/MSF2141/UFOs/blob/6fd9cc1fbe3bfb8247367e93214911244f1376b8/static/js/app.js)
+[data](https://github.com/MSF2141/UFOs/blob/81d4d9b74b055f833e2b4c969404cfdb936522eb/static/js/data.js)
