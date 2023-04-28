@@ -7,7 +7,7 @@ In the project, webpage is intended to allow users to filter for multiple criter
 ![UFO%20website](https://github.com/MSF2141/UFOs/blob/a22e888c8424bafaca8021d4e84eacc9ae6b25fb/UFO%20website.png)
 
 ## Codes
-- [index](https://github.com/MSF2141/UFOs/blob/9a51139f73a71c038897fdcdc6771b984c7e5493/index.html)
+- [index](https://github.com/MSF2141/UFOs/blob/e9ca008b8b0d6d842ce01e8ac8e234029db9d210/index.html).html
 - [app](https://github.com/MSF2141/UFOs/blob/6fd9cc1fbe3bfb8247367e93214911244f1376b8/static/js/app.js)
 - [data](https://github.com/MSF2141/UFOs/blob/81d4d9b74b055f833e2b4c969404cfdb936522eb/static/js/data.js)
 - [style](https://github.com/MSF2141/UFOs/blob/78651d88d0ea43edf8e537594a6fad7ce2ce4655/static/CSS/style.css)
